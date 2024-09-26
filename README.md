@@ -21,6 +21,8 @@ Hi, I'm Tavaris. Im new to the world of coding but excited to continue my journe
 |     2| CSS           |
 |     3| C#            |
 |     4| JavaScript    |
-|     5| Python        |
+|     5| Vue.js        |
+|     6| Node.js       |
+|     7| Express-Handlebars   |
 
 </details>
